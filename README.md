@@ -1,6 +1,6 @@
 <img align="right" width="350" src="https://github.com/murilio/murilio/blob/master/images/logo.jpg">
 
-## **Daniel**, Js s2
+## **Daniel**, Js 4Ever
 
 Full-Stack Developer :man_technologist:
 
