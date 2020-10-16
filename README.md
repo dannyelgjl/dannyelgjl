@@ -40,6 +40,8 @@ console.log("Hello World");
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyelgjl&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Redes sociais
 
 [<img width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/danielgjl/)
