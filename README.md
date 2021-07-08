@@ -2,7 +2,7 @@
 
 ## **Daniel**, Js 4Ever
 
-Full-Stack Developer :man_technologist:
+Software Engineer :man_technologist:
 
 ```javascript
 console.log("Hello World");
