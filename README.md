@@ -1,5 +1,3 @@
-<img align="right" width="350" src="https://github.com/murilio/murilio/blob/master/images/logo.jpg">
-
 ## **Daniel**, Js 4Ever
 
 Software Engineer :man_technologist:
