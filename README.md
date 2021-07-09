@@ -47,3 +47,7 @@ console.log("Hello World");
 <br />
 
 ![Daniel github stats](https://github-readme-stats.vercel.app/api?username=dannyelgjl&show_icons=true&theme=dark)
+
+<br />
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
